@@ -9,6 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>wicket-demo01</module>
+        <module>wicket-common</module>
     </modules>
     <packaging>pom</packaging>
 
