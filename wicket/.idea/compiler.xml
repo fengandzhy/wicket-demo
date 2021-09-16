@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="wicket-common" />
+        <module name="wicket-demo02" />
         <module name="wicket-demo01" />
         <module name="wicket-hellowold" />
       </profile>
