@@ -10,6 +10,7 @@
     <modules>
         <module>wicket-demo01</module>
         <module>wicket-common</module>
+        <module>wicket-hellowold</module>
     </modules>
     <packaging>pom</packaging>
 

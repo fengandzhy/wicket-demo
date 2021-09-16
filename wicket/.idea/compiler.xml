@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="wicket-common" />
         <module name="wicket-demo01" />
+        <module name="wicket-hellowold" />
       </profile>
     </annotationProcessing>
   </component>
