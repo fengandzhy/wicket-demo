@@ -5,6 +5,7 @@
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
           <element id="module-output" name="wicket-hellowold" />
+          <element id="module-output" name="wicket-common" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Maven: org.apache.wicket:wicket-core:9.3.0" />
@@ -48,6 +49,7 @@
         </element>
       </element>
       <element id="javaee-facet-resources" facet="wicket-hellowold/web/Web" />
+      <element id="javaee-facet-resources" facet="wicket-common/web/Web" />
     </root>
   </artifact>
 </component>

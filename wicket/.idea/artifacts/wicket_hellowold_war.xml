@@ -3,6 +3,12 @@
     <output-path>$PROJECT_DIR$/out/artifacts/wicket_hellowold_war</output-path>
     <root id="archive" name="wicket-hellowold_war.war">
       <element id="artifact" artifact-name="wicket-hellowold:war exploded" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="wicket-common" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="wicket-common/web/Web" />
     </root>
   </artifact>
 </component>

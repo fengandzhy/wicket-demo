@@ -11,6 +11,7 @@
         <module>wicket-demo01</module>
         <module>wicket-common</module>
         <module>wicket-hellowold</module>
+        <module>wicket-demo02</module>
     </modules>
     <packaging>pom</packaging>
 
